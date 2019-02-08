@@ -1,0 +1,3 @@
+rootProject.name = 'Midtermv1'
+
+include ':app'
